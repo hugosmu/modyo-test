@@ -33,3 +33,9 @@ export interface IFlipCard {
   setFlippedCards: (param: object) => void,
   setScore: (param: boolean) => void,
 }
+
+export interface ICongratulationsModal {
+  show: boolean,
+  gamersNames: string | null,
+  playAgain: () => void
+}

@@ -80,6 +80,7 @@ export const MemoryScreen = () => {
       />
       <CongratulationsModal
         show={congratulationsShowModal}
+        gamersNames={gamersName}
         playAgain={newGame}
       />
     </div>
