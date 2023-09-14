@@ -1,6 +1,6 @@
 ## Memory Game
 
-The project is a simple "Memory Game" to play as many times as you want. Everything is customable, so yo will be able to modify this the game as you wish.
+The project is a simple "Memory Game" to play as many times as you want. Everything is customable, so yo will be able to modify the game as you wish.
 
 ## Getting Started
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
